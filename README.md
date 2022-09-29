@@ -1,6 +1,8 @@
-# ajuste gamma de imágenes
+# Ajuste gamma de imágenes
 Este repositorio contiene la información para realizar el ajuste gamma en imágenes digitales. Se realizó un practica de la materia de PDI en UNITEC.
 
+**Objetivo**
+Lograr compreder como es que las imagenes pueden ser modificadas para que se visualicen de mejor manera.
 **Ajuste gamma:**
 Es la forma en la que se puede aumentar el contraste, lo cual nos ayuda a mejorarlo en áreas muy claras o muy oscuras.
 Esto lo podemos modificar con los valores especialmente medios-bajos.
@@ -25,3 +27,6 @@ En esta imagen podemos observar como es que a pesar de que en la primer imagen m
 En esta imagen de RX podemos observar como es que corrigiendo el color gamma nos permite ver una diferencia entre una imagen y otra, haciendo posible que podamos observar de una mejor manera los huesos y los clavos perceptibles.
 
 ![image](https://user-images.githubusercontent.com/114626270/192912412-82777909-73cb-4519-9978-4c70b5cb63bf.png)
+
+Conclusiones:
+En esta parte comporendí la manera en la que el contraste se puede modificar sin que se afecte el balnco o el negro.
